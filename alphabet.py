@@ -1,4 +1,4 @@
-p=iput()
+p=input()
 a="qwertyuioplkjhgfdsazxcvbnm"
 if p in a:
   print("Alphabet")
