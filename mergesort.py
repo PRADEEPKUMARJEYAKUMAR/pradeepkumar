@@ -24,6 +24,7 @@ def printlist(n):
     for i in n:
         print(i,end=' ')
     print()
+a=int(input())
 n=list(map(int,input().split()))
 mergesort(n)
 printlist(n)
