@@ -1,4 +1,4 @@
 n=int(input())
-p=list(map(int,input().split()))
-a=sorted(p)
+p1=list(map(int,input().split()))
+a=sorted(p1)
 print(*a)
