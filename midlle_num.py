@@ -5,6 +5,7 @@ s1
 while(s<len(c)):
   s1+=c[s]
   s+=1
-print(s1)
+p=s1/len(c)
+print(p)
   
   
