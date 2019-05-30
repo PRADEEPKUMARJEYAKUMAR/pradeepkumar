@@ -1,6 +1,6 @@
-n=int(input())
+n1=int(input())
 for i in range(1,10):
-    if n==i:
+    if n1==i:
         print("yes")
         break
 else:
