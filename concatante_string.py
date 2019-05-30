@@ -1,2 +1,2 @@
-a,b=input().split()
-print(a+b)
+a,c=input().split()
+print(a+c)
