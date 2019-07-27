@@ -5,6 +5,6 @@ for i in a:
     if(i>1):
         count=1
 if(count==0):
-    print("Yes")
+    print("yes")
 else:
-    print("No")
+    print("no")
